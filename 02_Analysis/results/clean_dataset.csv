@@ -1,0 +1,44 @@
+rank,title,sales_m,as_of,release,genre,developer,publisher_raw,regional_publisher,publisher,ecosystem,years_on_market,sales_per_year_m,release_year,genre_family
+1,Mario Kart 8 Deluxe,33.41,2020-12-31,2017-04-28,Kart racing,Nintendo EPD,Nintendo,False,Nintendo,First/second party,3.677,9.086,2017,Kart racing
+2,Animal Crossing: New Horizons,31.18,2020-12-31,2020-03-20,Social simulation,Nintendo EPD,Nintendo,False,Nintendo,First/second party,0.783,39.82,2020,Social simulation
+3,Super Smash Bros. Ultimate,22.85,2020-12-31,2018-12-07,Fighting,Bandai Namco Studios,Nintendo,False,Nintendo,First/second party,2.067,11.054,2018,Fighting
+4,The Legend of Zelda: Breath of the Wild,21.45,2020-12-31,2017-03-03,Action-adventure,Nintendo EPD,Nintendo,False,Nintendo,First/second party,3.83,5.6,2017,Action-adventure
+5,Pokémon Sword and Shield,20.35,2020-12-31,2019-11-15,Role-playing,Game Freak,The Pokémon Company,False,The Pokémon Company,First/second party,1.128,18.041,2019,Role-playing (all sub-genres)
+6,Super Mario Odyssey,20.23,2020-12-31,2017-10-27,Platformer,Nintendo EPD,Nintendo,False,Nintendo,First/second party,3.179,6.364,2017,Platformer
+7,Super Mario Party,13.82,2020-12-31,2018-10-05,Party,NDcube,Nintendo,False,Nintendo,First/second party,2.24,6.171,2018,Party
+8,"Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!",13.0,2020-12-31,2018-11-16,Role-playing,Game Freak,The Pokémon Company,False,The Pokémon Company,First/second party,2.125,6.119,2018,Role-playing (all sub-genres)
+9,Splatoon 2,11.9,2020-12-31,2017-07-21,Third-person shooter,Nintendo EPD,Nintendo,False,Nintendo,First/second party,3.447,3.452,2017,Third-person shooter
+10,New Super Mario Bros. U Deluxe,9.82,2020-12-31,2019-01-11,Platformer,Nintendo EPD,Nintendo,False,Nintendo,First/second party,1.971,4.982,2019,Platformer
+11,Luigi's Mansion 3,9.13,2020-12-31,2019-10-31,Action-adventure,Next Level Games,Nintendo,False,Nintendo,First/second party,1.169,7.81,2019,Action-adventure
+12,Ring Fit Adventure,8.68,2020-12-31,2019-10-18,Exergame,Nintendo EPD,Nintendo,False,Nintendo,First/second party,1.205,7.205,2019,Exergame
+13,Super Mario 3D All-Stars,8.32,2020-12-31,2020-09-18,Platformer,Nintendo EPD,Nintendo,False,Nintendo,First/second party,0.285,29.22,2020,Platformer
+14,Super Mario Maker 2,6.91,2020-12-31,2019-06-28,Platformer,Nintendo EPD,Nintendo,False,Nintendo,First/second party,1.511,4.572,2019,Platformer
+15,The Legend of Zelda: Link's Awakening,4.38,2020-03-31,2019-09-20,Action-adventure,Grezzo,Nintendo,False,Nintendo,First/second party,0.528,8.289,2019,Action-adventure
+16,Hyrule Warriors: Age of Calamity,3.5,2020-12-31,2020-11-20,Hack and slash,Omega Force,JP: Koei Tecmo,True,Koei Tecmo,Third party,0.112,31.18,2020,Hack and slash
+17,Among Us,3.2,2020-12-31,2020-12-15,Party,Innersloth,Innersloth,False,Innersloth,Third party,0.044,73.05,2020,Party
+18,1-2-Switch,3.18,2019-12-31,2017-03-03,Party,Nintendo EPD,Nintendo,False,Nintendo,First/second party,2.828,1.124,2017,Party
+19,Mario Tennis Aces,3.06,2019-12-31,2018-06-22,Sports,Camelot Software Planning,Nintendo,False,Nintendo,First/second party,1.525,2.007,2018,Sports
+20,Paper Mario: The Origami King,3.05,2020-12-31,2020-07-17,Role-playing,Intelligent Systems,Nintendo,False,Nintendo,First/second party,0.457,6.671,2020,Role-playing (all sub-genres)
+21,Kirby Star Allies,2.93,2019-12-31,2018-03-16,Platformer,HAL Laboratory,Nintendo,False,Nintendo,First/second party,1.793,1.634,2018,Platformer
+22,Fire Emblem: Three Houses,2.87,2020-03-31,2019-07-26,Tactical role-playing,Intelligent Systems,Nintendo,False,Nintendo,First/second party,0.682,4.21,2019,Role-playing (all sub-genres)
+23,Donkey Kong Country: Tropical Freeze,2.65,2019-12-31,2018-05-04,Platformer,Retro Studios,Nintendo,False,Nintendo,First/second party,1.659,1.597,2018,Platformer
+24,Clubhouse Games: 51 Worldwide Classics,2.62,2020-12-31,2020-06-05,Tabletop game,NDcube,Nintendo,False,Nintendo,First/second party,0.572,4.579,2020,Tabletop game
+25,"Momotaro Dentetsu: Showa, Heisei, Reiwa Mo Teiban!",2.5,2021-02-04,2020-11-19,Board game,Konami,JP: Konami,True,Konami,Third party,0.211,11.859,2020,Board game
+26,Arms,2.38,2019-12-31,2017-06-16,Fighting,Nintendo EPD,Nintendo,False,Nintendo,First/second party,2.541,0.937,2017,Fighting
+27,Minecraft,2.24,2020-11-01,2017-05-11,Sandbox,Mojang,JP: Xbox Game Studios,True,Xbox Game Studios,Third party,3.477,0.644,2017,Sandbox
+28,Mario + Rabbids Kingdom Battle,2.0,2018-09-02,2017-08-29,Tactical role-playing,Ubisoft Paris,NA/PAL: Ubisoft,True,Ubisoft,Third party,1.01,1.98,2017,Role-playing (all sub-genres)
+29,Octopath Traveler,2.0,2020-03-18,2018-07-13,Role-playing,Square Enix,JP: Square Enix,True,Square Enix,Third party,1.681,1.19,2018,Role-playing (all sub-genres)
+30,Pikmin 3 Deluxe,1.94,2020-12-31,2020-10-30,Real-time strategy,Nintendo EPD,Nintendo,False,Nintendo,First/second party,0.17,11.429,2020,Real-time strategy
+31,Xenoblade Chronicles 2,1.92,2019-12-31,2017-12-01,Action role-playing,Monolith Soft,Nintendo,False,Nintendo,First/second party,2.081,0.923,2017,Role-playing (all sub-genres)
+32,Yoshi's Crafted World,1.84,2019-12-31,2019-03-29,Platformer,Good-Feel,Nintendo,False,Nintendo,First/second party,0.758,2.426,2019,Platformer
+33,Xenoblade Chronicles: Definitive Edition,1.48,2020-12-31,2020-05-29,Action role-playing,Monolith Soft,Nintendo,False,Nintendo,First/second party,0.591,2.503,2020,Role-playing (all sub-genres)
+34,Captain Toad: Treasure Tracker,1.44,2019-12-31,2018-07-13,Action puzzle,Nintendo EPD,Nintendo,False,Nintendo,First/second party,1.467,0.981,2018,Action puzzle
+35,Nintendo Labo Toy-Con 01: Variety Kit,1.31,2019-12-31,2018-04-20,Construction kit,Nintendo EPD,Nintendo,False,Nintendo,First/second party,1.697,0.772,2018,Construction kit
+36,Pokémon Mystery Dungeon: Rescue Team DX,1.26,2020-03-31,2020-03-06,Roguelike,Spike Chunsoft,Nintendo,False,Nintendo,First/second party,0.068,18.409,2020,Roguelike
+37,Pokkén Tournament DX,1.16,2018-03-31,2017-09-22,Fighting,Bandai Namco Studios,JP: The Pokémon Company,True,The Pokémon Company,First/second party,0.52,2.23,2017,Fighting
+38,Astral Chain,1.08,2020-03-31,2019-08-30,Action-adventure,PlatinumGames,Nintendo,False,Nintendo,First/second party,0.586,1.843,2019,Action-adventure
+39,Marvel Ultimate Alliance 3: The Black Order,1.08,2020-03-31,2019-07-19,Action role-playing,Team Ninja,Nintendo,False,Nintendo,First/second party,0.701,1.541,2019,Role-playing (all sub-genres)
+40,Mario Kart Live: Home Circuit,1.08,2020-12-31,2020-10-16,Kart racing,Velan Studios,Nintendo,False,Nintendo,First/second party,0.208,5.19,2020,Kart racing
+41,Enter the Gungeon,1.0,2019-03-03,2017-12-14,Bullet hell,Dodge Roll,Devolver Digital,False,Devolver Digital,Third party,1.216,0.823,2017,Bullet hell
+42,Fitness Boxing,1.0,2020-09-08,2018-12-20,Exergame,Imagineer,JP: Imagineer,True,Imagineer,Third party,1.719,0.582,2018,Exergame
+43,Taiko no Tatsujin: Drum 'n' Fun!,1.0,2020-07-03,2018-07-19,Rhythm,Bandai Namco Studios,Bandai Namco Entertainment,False,Bandai Namco Entertainment,Third party,1.958,0.511,2018,Rhythm

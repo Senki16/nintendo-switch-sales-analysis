@@ -1,0 +1,21 @@
+genre_family,titles,sales_m,mean_m,best_m,sales_share_pct,title_share_pct
+Platformer,7,52.7,7.529,20.23,18.036,16.279
+Role-playing (all sub-genres),9,47.75,5.306,20.35,16.342,20.93
+Action-adventure,4,36.04,9.01,21.45,12.334,9.302
+Kart racing,2,34.49,17.245,33.41,11.804,4.651
+Social simulation,1,31.18,31.18,31.18,10.671,2.326
+Fighting,3,26.39,8.797,22.85,9.031,6.977
+Party,3,20.2,6.733,13.82,6.913,6.977
+Third-person shooter,1,11.9,11.9,11.9,4.073,2.326
+Exergame,2,9.68,4.84,8.68,3.313,4.651
+Hack and slash,1,3.5,3.5,3.5,1.198,2.326
+Sports,1,3.06,3.06,3.06,1.047,2.326
+Tabletop game,1,2.62,2.62,2.62,0.897,2.326
+Board game,1,2.5,2.5,2.5,0.856,2.326
+Sandbox,1,2.24,2.24,2.24,0.767,2.326
+Real-time strategy,1,1.94,1.94,1.94,0.664,2.326
+Action puzzle,1,1.44,1.44,1.44,0.493,2.326
+Construction kit,1,1.31,1.31,1.31,0.448,2.326
+Roguelike,1,1.26,1.26,1.26,0.431,2.326
+Bullet hell,1,1.0,1.0,1.0,0.342,2.326
+Rhythm,1,1.0,1.0,1.0,0.342,2.326

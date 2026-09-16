@@ -1,0 +1,57 @@
+{
+  "dataset": {
+    "titles": 43,
+    "total_sales_m": 292.2,
+    "mean_sales_per_title_m": 6.7953,
+    "median_sales_per_title_m": 2.87,
+    "std_sales_per_title_m": 8.359,
+    "skewness": 1.775,
+    "genres": 22,
+    "developers": 24,
+    "publishers": 11,
+    "mean_sales_per_genre_m": 13.282,
+    "mean_sales_per_developer_m": 12.175,
+    "top10_share_pct": 67.77,
+    "regional_publisher_rows": 7,
+    "as_of_range": [
+      "2018-03-31",
+      "2021-02-04"
+    ]
+  },
+  "time_on_market": {
+    "spearman_rho": 0.335,
+    "p_value": 0.0283
+  },
+  "mann_whitney": {
+    "U": 223.0,
+    "p_value_one_sided": 0.01897,
+    "median_first_second_m": 3.0549999999999997,
+    "median_third_m": 2.0
+  },
+  "hypotheses": [
+    {
+      "id": "H1",
+      "statement": "Nintendo EPD is the developer with the most sales and is above the mean sales per developer.",
+      "result": "Supported",
+      "evidence": "Nintendo EPD: 162.15 M copies in 14 titles (55.5 % of all sales), 13.3 x the developer mean of 12.18 M. Only 4 of 24 developers are above the mean: Nintendo EPD, Game Freak, Bandai Namco Studios, NDcube."
+    },
+    {
+      "id": "H2",
+      "statement": "Platformer is the genre with the most sales and role-playing the genre with the most titles.",
+      "result": "Partly supported",
+      "evidence": "Top genre by sales: Platformer (52.70 M, 18.0 %). Top genre by titles: Platformer (7) vs 4 labelled 'Role-playing'. If action and tactical RPGs are grouped, the role-playing family has 9 titles and 47.75 M copies."
+    },
+    {
+      "id": "H3",
+      "statement": "Third-party companies have far fewer best-selling titles than first/second-party companies.",
+      "result": "Supported",
+      "evidence": "First/second party: 34 titles (79.1 %) and 93.7 % of sales; third party: 9 titles. Median sales per title 3.05 M vs 2.00 M (Mann-Whitney U = 223, one-sided p = 0.0190)."
+    },
+    {
+      "id": "H4",
+      "statement": "Most titles sell more than the mean of the list.",
+      "result": "Rejected",
+      "evidence": "Only 14 of 43 titles (32.6 %) exceed the mean of 6.80 M. The distribution is right-skewed (skewness 1.77); the median is 2.87 M and the top 10 titles hold 67.8 % of all sales."
+    }
+  ]
+}
