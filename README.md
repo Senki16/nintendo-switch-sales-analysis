@@ -2,7 +2,7 @@
 
 Python data analysis of the **43 Nintendo Switch games with more than one million copies sold** (292.2 million copies in total). The project cleans the data, groups sales by genre, developer and publisher, and tests four market hypotheses. When you run it, a desktop window opens with all the results and interactive figures.
 
-Final project for **Programming Fundamentals** (2022-1), Universidad EAFIT (Medellín, Colombia). The code and the report were rewritten in English and improved (see [what changed](#improvements-over-the-original-deliverable)).
+Final project for **Programming Fundamentals** (2022-1), Universidad EAFIT (Medellín, Colombia).
 
 📄 **[Read the IEEE-format report (PDF)](03_Report/IEEE_Report.pdf)**
 
