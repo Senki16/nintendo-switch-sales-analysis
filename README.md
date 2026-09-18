@@ -115,18 +115,6 @@ To rebuild the report, run `latexmk -pdf IEEE_Report.tex` inside `03_Report/` (i
 
 </details>
 
-## Improvements over the original deliverable
-
-The original was a Google Colab notebook with a report in Spanish. Both are kept in `05_Original_Submission/`. This version changes the following:
-
-- **Fixed calculations.** The original truncated the total sales with `int()` (292 instead of 292.2) before computing the means. It also counted *Nintendo* and *Nintendo EPD* as two developers, so the mean per developer was 11.68 M instead of 12.18 M.
-- **Fixed classification.** The original counted the three games published by *The Pokémon Company* (co-owned by Nintendo) as third-party. Its third-party share was 27.9 % of titles; the corrected value is 20.9 %.
-- **Cleaned the data.** Dates are parsed, regional publisher prefixes are removed and flagged, and new variables are derived: time on the market and genre family.
-- **Added statistics.** The analysis now reports medians and skewness, a Mann-Whitney U test for H3, Spearman correlation for time on the market, and sales concentration (Pareto).
-- **Improved figures.** Pie charts with up to 22 slices became sorted bar charts. The figures use a consistent, color-blind-safe palette and show reference lines for the mean and median.
-- **Better code structure.** It is now a single script with functions, no hard-coded Colab paths, automatic dependency setup, saved outputs and a desktop interface.
-- **New report.** It is written in English in IEEE format, with an explicit verdict for each hypothesis and a limitations section.
-
 ## Repository structure
 
 ```
